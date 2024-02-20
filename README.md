@@ -1,8 +1,8 @@
-# MLOps Labs Repository
+# MLOps Repository
 
 ## Overview
 
-Welcome to the MLOps Labs Repository! This repository is dedicated to sharing the labs and exercises for the MLOps (Machine Learning Operations) course at Northeastern University. The primary goal of this repository is to provide a centralized platform for students, instructors, and anyone interested in MLOps to access and collaborate on course-related materials.
+Welcome to the MLOps Repository! This repository is dedicated to sharing reading contents, labs and exercises for the MLOps (Machine Learning Operations) course at Northeastern University. The primary goal of this repository is to provide a centralized platform for students, instructors, and anyone interested in MLOps to access and collaborate on course-related materials.
 
 ## Table of Contents
 
@@ -24,7 +24,7 @@ The MLOps course at Northeastern University is designed to provide students with
 - Build end-to-end machine learning pipelines
 - Deploy machine learning models to production
 - Monitor and maintain ML systems
-- Implement CI/CD (Continuous Integration/Continuous Deployment) for ML
+- Implement CI/CD/CM/CT (Continuous Integration/Continuous Deployment/Continuous Monitoring/Continuous Training) for ML
 - Containerize and orchestrate ML workloads
 - Handle data drift and model retraining
 
